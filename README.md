@@ -1,6 +1,30 @@
 [![Edit in Eraser](https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&token=968381c8-a7e7-472a-8ed6-4a6626da5501)](https://app.eraser.io/workspace/rUVOOjMWuir53ftm9t5u)
 
 
+It is important to understand what your customers value the most in your product.
+
+
+
+1. What is the price? How much is the price?
+2. How you price something? How you package it?
+
+
+Randomly optimizing something vs methodically optimizing something.
+
+
+
+List and order.
+
+
+
+### Different ways to package your pricing
+1. By features: more features -> more price.
+2. By usage value metric: more usage -> more price.
+3. By outcome metric: move revenue -> more price.
+
+
+![image.png](/.eraser/rUVOOjMWuir53ftm9t5u___zEbfuHgOdNOaRrQExdxWKsworsd2___aB56jjKlcdqe6bX2tRIX.png "image.png")
+
 
 
 
