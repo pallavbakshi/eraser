@@ -1,6 +1,21 @@
 [![Edit in Eraser](https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&token=968381c8-a7e7-472a-8ed6-4a6626da5501)](https://app.eraser.io/workspace/rUVOOjMWuir53ftm9t5u)
 
 
+
+
+
+
+Step 1 - Figure out the relative importance of your features i.e. what customers love the most.
+
+Step 2 - Figure out how you want to package your product.
+
+Step 3 - Figure out a price customers are willing to pay for.
+
+1. Use **Van Westendorp survey.**
+Step 4 - X.
+
+
+
 It is important to understand what your customers value the most in your product.
 
 
